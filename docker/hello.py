@@ -1,0 +1,1 @@
+print('Band kardo ye sab !')
