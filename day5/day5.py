@@ -31,6 +31,8 @@
 import math_operation
 
 a = math_operation.add(3,4)
-print(a)
+b = math_operation.add(8,4)
 
+print(a)
+print(b)
 print(f"the subtaction result is {math_operation.sub(10,2)}")
