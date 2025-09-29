@@ -1,2 +1,1 @@
-# python
-Basic Python notes and Questions
+Restart Python
